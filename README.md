@@ -1,5 +1,5 @@
-# YunDaeHan Portfolio
-contact . 010-5218-6578
+# contact
+phone . 010-5218-6578
 #  Careers
 
 #  Experiences
