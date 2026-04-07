@@ -1,7 +1,7 @@
 
 
 # Contact
-phone . 010-****-****
+phone . 010-'****'-'****'
 #  Careers
 
 #  Experiences
